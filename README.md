@@ -19,6 +19,8 @@
   <!-- PROJECT LOGO -->
   <h2>DocFX Unity package</h2>
 
+  <p><b>Note: this is a fork for Future Colossal use and is liable to break at any time. It is born simply out of the need to update the .NET version in the original immediately, but may see breaking changes in the future. It is highy recommended you use <a href="https://github.com/CaseyHofland/docfx-unitypackage">the original author's version</a> </b></p>
+
   <a href="https://cubusky.github.io/com.cubusky.core/manual/AttributeSerialization/ReferenceDropdownAttribute.html">
     <img src="https://github.com/CaseyHofland/docfx-unitypackage/assets/27729987/bad8597b-2520-4bd8-9022-55553f004faf" alt="logo" target="_blank"/>
   </a>
