@@ -1,5 +1,5 @@
 name: fc-docfx-unitypackage
-description: DocFX Unity package is a GitHub action for deploying a DocFX website for Unity packages to GitHub Pages. Forked from Casey Hofland.
+description: A GitHub action for deploying a DocFX website for Unity packages to GitHub Pages. Forked from Casey Hofland.
 author: Future Colossal
 branding:
   icon: 'file-text'
